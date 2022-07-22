@@ -1,0 +1,8 @@
+.foot{
+    height: 300px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M 0%2c354 C 57.6%2c301.8 172.8%2c83.4 288%2c93 C 403.2%2c102.6 460.8%2c383.8 576%2c402 C 691.2%2c420.2 748.8%2c177.8 864%2c184 C 979.2%2c190.2 1036.8%2c455.2 1152%2c433 C 1267.2%2c410.8 1382.4%2c145 1440%2c73L1440 560L0 560z' fill='%23184a7e'%3e%3c/path%3e%3cpath d='M 0%2c198 C 96%2c217.4 288%2c300.8 480%2c295 C 672%2c289.2 768%2c159.4 960%2c169 C 1152%2c178.6 1344%2c308.2 1440%2c343L1440 560L0 560z' fill='%232264ab'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+.container{
+    margin-right: 50px;
+    
+}
